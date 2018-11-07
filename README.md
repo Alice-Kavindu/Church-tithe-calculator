@@ -1,6 +1,6 @@
 # Church tithe calculator
 A simple application in PHP {using Php function, Php form handling} to calculate church goers tithes.
-#Before
+# Before
 ![picture](before_calculation.JPG)
-#After
+# After
 ![picture](after_calculation.JPG)
